@@ -1,7 +1,8 @@
 <xml>
 	<name>"Angelina"</name>
-	<preferences>"Favorite TV show:"Sherlock";
-		Favorite genre of music:rock, hip-hop;
-		favorite car: Mercedes"</preferences>
+	<preferences>Favorite TV show:"Sherlock"</preferences>
+	<preferences>Favorite genre of music:rock, hip-hop</preferences>
+	<preferences>Favorite car: Mercedes"</preferences>
+</xml>
 
 
